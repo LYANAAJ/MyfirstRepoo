@@ -12,3 +12,4 @@ This is my first repository for the Git and GitHub lab.
 - Create a repository on GitHub
 - Open the project in VS Code
 - Edit and update README.md
+Explore Git status and commit changes (Lab 8)
